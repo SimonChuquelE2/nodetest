@@ -4,4 +4,4 @@ WORKDIR /usr/app
 
 COPY ./ ./
 
-CMD ["node","server.js"]
+CMD ["node33","server.js"]
