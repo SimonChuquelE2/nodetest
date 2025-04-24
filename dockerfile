@@ -2,6 +2,6 @@ FROM node:22
 
 WORKDIR /usr/app
 
-COPY ./ ./
+COPYR ./ ./
 
-CMD ["node33","server.js"]
+CMD ["node","server.js"]
